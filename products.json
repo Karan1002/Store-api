@@ -1,0 +1,37 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "marcos",
+    "rating": 4.3,
+    "featured": false
+  },
+  {
+    "name": "chair",
+    "price": 45,
+    "company": "volvo",
+    "rating": 4.1,
+    "featured": true
+  },
+  {
+    "name": "table",
+    "price": 15,
+    "company": "marcos",
+    "rating": 3.5,
+    "featured": false
+  },
+  {
+    "name": "lamp",
+    "price": 7,
+    "company": "marcos",
+    "rating": 2.2,
+    "featured": true
+  },
+  {
+    "name": "bench",
+    "price": 5,
+    "company": "marcos",
+    "rating": 4.8,
+    "featured": false
+  }
+]
